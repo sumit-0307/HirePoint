@@ -1,7 +1,7 @@
 import React from 'react'
 import { ModeToggle } from './ModeToggle'
 import Link from 'next/link'
-import { CodeIcon } from 'lucide-react'
+import { CodeXml } from 'lucide-react'
 import { SignedIn, UserButton } from '@clerk/nextjs'
 import DasboardBtn from './DasboardBtn'
 
@@ -14,7 +14,7 @@ function Navbar() {
           href="/"
           className="flex items-center gap-2 font-semibold text-2xl mr-6 font-mono hover:opacity-80 transition-opacity"
         >
-          <CodeIcon className="size-8 text-emerald-500" />
+          <CodeXml className="size-8 text-emerald-500" />
           <span className="bg-gradient-to-r from-emerald-600 to-teal-500 bg-clip-text text-transparent">
             HirePoint
           </span>

@@ -10,27 +10,32 @@
 
 ## 🌟 Features
 
-- 🎥 **Real-time Video Interviews** – Powered by [Stream.io](https://getstream.io) for fast and reliable video calls.
-- 🔐 **Authentication** – Secure and smooth login/signup via [Clerk](https://clerk.dev).
-- 📅 **Schedule Meetings** – Easily schedule upcoming interviews with calendar-like interface.
-- ⚡ **Direct Meeting Links** – One-click meetings for spontaneous interviews.
-- 📼 **Interview Recordings** – Automatically save and access past interview videos.
-- 🧑‍💼 **Candidate Evaluation Dashboard** – Interviewers can rate candidates (1–5 stars) and leave detailed feedback.
-- 🧠 **Serverless Backend** – Powered by [Convex](https://convex.dev) for real-time data storage and sync.
-- 💅 **Clean UI/UX** – Built with [ShadCN UI](https://ui.shadcn.com), [Tailwind CSS](https://tailwindcss.com), and [Next.js](https://nextjs.org).
+- 🎥 **Real-time Video Interviews** – Powered by [Stream.io](https://getstream.io) for high-quality video calls.
+- 🔐 **Authentication** – Seamless login/signup with [Clerk](https://clerk.dev).
+- 📅 **Schedule Interviews** – Set up interviews in advance with date/time selectors.
+- ⚡ **Quick Direct Meetings** – Instantly generate and join one-click meeting rooms.
+- 📼 **Interview Recordings** – Rewatch and review candidate interviews anytime.
+- 🧑‍💼 **Candidate Evaluation Dashboard** – Interviewers can leave **1–5 star ratings** and comments on performance.
+- 💬 **Live Coding Questions Tab** – View real coding questions during interviews.
+- 🧠 **Integrated Code Editor** – Write, edit, and test code in multiple programming languages during interviews.
+- 🌐 **Language & Question Type Selector** – Choose language (e.g., JavaScript, Python, etc.) and question category (e.g., Algorithms, DBMS, DSA).
+- 🖥️ **Screen Sharing Support** – Share your screen in real-time for deep collaboration.
+- 🪄 **Serverless Backend** – Managed with [Convex](https://convex.dev) for live syncing data.
+- 💅 **Modern UI/UX** – Built with [Next.js](https://nextjs.org), [ShadCN UI](https://ui.shadcn.com), and [Tailwind CSS](https://tailwindcss.com).
 
 ---
 
 ## 🧰 Tech Stack
 
-| Tech        | Description                              |
-|-------------|------------------------------------------|
-| **Next.js** | React Framework with server-side support |
-| **Clerk**   | Authentication & User Management         |
-| **Convex**  | Serverless DB & Backend Logic            |
-| **Stream.io**| Video Calling & Streaming               |
-| **Tailwind CSS** | Utility-first CSS Framework         |
-| **ShadCN UI** | Pre-built, themeable UI components     |
+| Tech           | Description                              |
+|----------------|------------------------------------------|
+| **Next.js**     | React framework with App Router          |
+| **Clerk**       | Authentication & User Management         |
+| **Convex**      | Real-time Backend & DB                   |
+| **Stream.io**   | Video/Audio Streaming API                |
+| **Tailwind CSS**| Utility-first styling framework          |
+| **ShadCN UI**   | Reusable UI Components                   |
+| **Monaco Editor**| VS Code-style code editor               |
 
 ---
 

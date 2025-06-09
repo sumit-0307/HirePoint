@@ -5,7 +5,7 @@
 #  HirePoint
 
 ## Demo Website:
-https://hire-point-seven.vercel.app/
+https://hire-point-izumi.vercel.app/
 
 ---
 

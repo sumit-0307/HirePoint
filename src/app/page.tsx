@@ -5,11 +5,7 @@ import { SignedIn, SignedOut, SignInButton, SignUpButton, UserButton } from "@cl
 export default function Home() {
   return (
     <div className="m-10">
-        <SignInButton>
-          <Button>
-            Sign In
-          </Button>
-        </SignInButton>
+        Home
     </div>
   );
 }

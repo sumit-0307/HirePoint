@@ -18,7 +18,7 @@
 - 🧑‍💼 **Candidate Evaluation Dashboard** – Interviewers can leave **1–5 star ratings** and comments on performance.
 - 💬 **Live Coding Questions Tab** – View real coding questions during interviews.
 - 🧠 **Integrated Code Editor** – Write, edit, and test code in multiple programming languages during interviews.
-- 🌐 **Language & Question Type Selector** – Choose language (e.g., JavaScript, Python, etc.) and question category (e.g., Algorithms, DBMS, DSA).
+- 🌐 **Language & Question Type Selector** – Choose language (e.g., JavaScript, Python, etc.) and question category.
 - 🖥️ **Screen Sharing Support** – Share your screen in real-time for deep collaboration.
 - 🪄 **Serverless Backend** – Managed with [Convex](https://convex.dev) for live syncing data.
 - 💅 **Modern UI/UX** – Built with [Next.js](https://nextjs.org), [ShadCN UI](https://ui.shadcn.com), and [Tailwind CSS](https://tailwindcss.com).
